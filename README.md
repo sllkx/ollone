@@ -13,7 +13,7 @@
 
 ## 👋 Hey there! What is OLLONE?
 
-I don't know about you, but I was tired of cluttering my PC with five different clunky programs just to do basic everyday tasks. Why download a separate video player, a heavy image viewer, a text editor, and two different archiving tools? 
+I don't know about you, but I was tired of cluttering my PC with five different clunky programs just to do basic everyday tasks. Why download a separate video player, an audio player, a heavy image viewer, a text editor, and two different archiving tools? 
 
 That's why I built **OLLONE**. 
 
@@ -21,29 +21,27 @@ OLLONE is a lightning-fast, all-in-one utility that bundles the 5 most essential
 
 <br />
 
-## ✨ The 5 Core Features
+## ✨ Features & Supported Formats
 
-I focused purely on speed and simplicity. Here is what OLLONE can do out of the box:
+I focused purely on speed, simplicity, and ultimate compatibility. Here is what OLLONE can do out of the box:
 
-- 🎬 **Video Player**
-  - Plays almost any video format without making you hunt down codecs. 
-  - Easily handles crisp 4K playback without breaking a sweat.
+- 🎬 **Media Player**
+  - Plays almost any video and audio format natively without making you hunt down codecs.
+  - Easily handles crisp 4K playback and lossless audio without breaking a sweat.
+  - **Supported Formats:** `mp4` `mkv` `avi` `webm` `mp3` `flac` `wav`
   
 - 🖼️ **Image Viewer**
-  - Opens massive photo folders instantly. 
-  - Native support for modern formats like RAW and WebP. No more "format not supported" errors.
+  - Opens massive, high-resolution photo folders instantly. 
+  - **Supported Formats:** `png` `jpg` `jpeg` `gif` `bmp`
   
-- 📝 **Text Editor**
+- 📝 **Text & Code Editor**
   - A super snappy notepad alternative. 
   - Perfect for jotting down quick thoughts, inspecting logs, or editing a few lines of code without firing up a heavy IDE.
+  - **Supported Formats:** `txt` `js` `php` `json` `html` `css` `md`
   
-- 🗜️ **File Compressor**
-  - Save disk space by packing up your files with an efficient compression engine. 
-  - Neatly bundle multiple files and folders with a single click.
-  
-- 📂 **Archive Extractor**
-  - Downloaded a weird archive file from the internet? OLLONE handles ZIP, RAR, 7Z, and more. 
-  - Just drag, drop, and extract in a blink.
+- 🗜️ **Archive Manager (Compress & Extract)**
+  - Save disk space by packing up your files with an efficient compression engine, or extract downloaded files in a blink via Drag & Drop.
+  - **Supported Formats:** `zip` `7z` `rar` (Extract only) `tar` `gz`
 
 <br />
 
